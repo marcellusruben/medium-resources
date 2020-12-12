@@ -1,1 +1,1 @@
-# All_things_medium
+# Collection of code for Medium articles
