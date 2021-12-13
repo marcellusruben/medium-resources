@@ -1,1 +1,1 @@
-# Collection of code for Medium articles
+# Code collections for Medium articles
